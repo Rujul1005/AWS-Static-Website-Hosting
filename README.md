@@ -1,45 +1,52 @@
 # 🌐 AWS Static Website Hosting
 
 ## 🚀 Project Overview
+This project demonstrates hosting a static website using AWS cloud services.
 
-This project demonstrates how to deploy a static website using cloud services for scalable and fast global delivery.
-The website was hosted using Amazon S3 and delivered through Amazon CloudFront CDN.
+The website was deployed using Amazon S3 for storage and Amazon CloudFront as a CDN for fast global delivery.
 
 ---
 
 ## 🧰 Tech Stack
-
-* Amazon S3 (Static Website Hosting)
-* Amazon CloudFront (CDN)
-* HTML, CSS, JavaScript
+- Amazon S3
+- Amazon CloudFront
+- HTML, CSS, JavaScript
 
 ---
 
 ## 🏗️ Architecture
-
 User → CloudFront → S3 Bucket → Static Website
 
 ---
 
 ## ✨ Features
+- Static website hosting on AWS
+- Fast global delivery using CDN
+- HTTPS enabled via CloudFront
+- Scalable and low-cost deployment
 
-* Static website hosting on cloud
-* Fast content delivery using CDN
-* Secure access via HTTPS
-* Simple and scalable architecture
+---
+
+## 📸 Screenshots
+<img width="1920" height="1080" alt="Cloudfront" src="https://github.com/user-attachments/assets/e03e555b-9cae-4108-b4a0-846a2a93f1db" />
+<img width="1920" height="1080" alt="Homepage" src="https://github.com/user-attachments/assets/e2e4bd85-1ad7-4e19-a4ab-5bb42b7191b0" />
+<img width="1920" height="1080" alt="S3-bucket" src="https://github.com/user-attachments/assets/7dce992b-13da-4114-8197-71f81a6b4e79" />
 
 ---
 
 ## 🧠 What I Learned
-
-* How to host static websites using AWS
-* Working of Content Delivery Networks (CDN)
-* Cloud deployment and debugging
-* Managing permissions and access in S3
+- Hosting static websites using S3
+- Configuring CDN with CloudFront
+- Managing bucket permissions
+- Debugging cloud deployment issues
 
 ---
 
 ## ⚠️ Note
+AWS resources were removed to avoid billing charges.  
+Screenshots are provided as proof of deployment.
 
-The live deployment was hosted on AWS.
-Cloud resources have been removed to avoid ongoing charges.
+---
+
+## 💼 Resume Highlight
+Deployed a static website using AWS S3 and CloudFront with global CDN and HTTPS support.
