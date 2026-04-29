@@ -14,7 +14,7 @@ The website was deployed using Amazon S3 for storage and Amazon CloudFront as a 
 
 ---
 ## 🏗️ Architecture
-![Architecture](./screenshots/architecture.png)
+![Homepage](./screenshots/homepage.png)
 
 ---
 
