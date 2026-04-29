@@ -29,11 +29,9 @@ CloudFront acts as a CDN to deliver content globally, while S3 stores the static
 ---
 
 ## 📸 Screenshots
-<img width="1920" height="1080" alt="Cloudfront" src="https://github.com/user-attachments/assets/e03e555b-9cae-4108-b4a0-846a2a93f1db" />
-
-<img width="1920" height="1080" alt="Homepage" src="https://github.com/user-attachments/assets/e2e4bd85-1ad7-4e19-a4ab-5bb42b7191b0" />
-
 <img width="1920" height="1080" alt="S3-bucket" src="https://github.com/user-attachments/assets/7dce992b-13da-4114-8197-71f81a6b4e79" />
+<img width="1920" height="1080" alt="Cloudfront" src="https://github.com/user-attachments/assets/e03e555b-9cae-4108-b4a0-846a2a93f1db" />
+<img width="1920" height="1080" alt="Homepage" src="https://github.com/user-attachments/assets/e2e4bd85-1ad7-4e19-a4ab-5bb42b7191b0" />
 
 ---
 
