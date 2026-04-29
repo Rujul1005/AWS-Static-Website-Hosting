@@ -14,7 +14,9 @@ The website was deployed using Amazon S3 for storage and Amazon CloudFront as a 
 
 ---
 ## 🏗️ Architecture
-![Homepage](./screenshots/homepage.png)
+User → CloudFront → S3 Bucket → Static Website
+
+CloudFront acts as a CDN to deliver content globally, while S3 stores the static website files.
 
 ---
 
